@@ -7,8 +7,9 @@ import {
   View,
   ViewabilityConfigCallbackPair,
   ViewToken,
-  RefreshControl, SafeAreaView
-} from "react-native";
+  RefreshControl,
+  SafeAreaView,
+} from 'react-native';
 
 import {useSharedValue} from 'react-native-reanimated';
 import ProductCard from '../../components/prodductCard/prodductCard';
